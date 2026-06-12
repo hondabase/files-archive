@@ -8,9 +8,6 @@
     "Arduino Nano - Wire OLED.jpg": {
         "description": "How to wire an OLED to an Arduino Nano."
     },
-    "claude-e2e-test.txt": {
-        "description": "Updated by community"
-    },
     "Oarduino_v7_2019_52mm.ino": {
         "description": "Arduino code for a 52mm OLED display."
     }
